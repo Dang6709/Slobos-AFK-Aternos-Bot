@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "Botos",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "dangmstapchs.aternos.me:50793",
+    "port": 50793,
+    "version": "1.21.10",
     "try-creative": false
   },
   "position": {
@@ -31,8 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
+        "I'm a regular player"
         "I like to play Minecraft!"
       ]
     },
