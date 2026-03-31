@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "dangmstapchs.aternos.me:50793",
+    "ip": "dangmstapchs.aternos.me",
     "port": 50793,
     "version": "1.21.10",
     "try-creative": false
