@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "sinhtondeptrai1.play.hosting",
-    "port": 59877,
+    "port": 25565,
     "version": "1.21.10",
     "try-creative": false
   },
