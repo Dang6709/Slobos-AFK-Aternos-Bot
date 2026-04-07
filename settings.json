@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "sinhtondeptrai1.play.hosting",
+    "ip": "dangdeptrai.play.hosting",
     "port": 25565,
     "version": "1.21.10",
     "try-creative": false
